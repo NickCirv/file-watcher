@@ -1,7 +1,7 @@
 {
   "name": "file-watcher",
   "version": "1.0.0",
-  "description": "Watch files, run commands on change. Zero-dependency nodemon alternative.",
+  "description": "Watch files and directories for changes, run commands automatically. nodemon alternative. Zero dependencies.",
   "type": "module",
   "bin": {
     "file-watcher": "./index.js",
@@ -15,12 +15,11 @@
     "cli",
     "nodejs",
     "zero-dependencies",
+    "file-watcher",
     "watch",
-    "nodemon",
-    "file-watching",
-    "chokidar",
-    "watcher",
-    "build-tool"
+    "automation",
+    "nodemon-alternative",
+    "developer-productivity"
   ],
   "author": "NickCirv",
   "license": "MIT",
