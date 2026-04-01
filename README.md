@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # file-watcher
 
 > Watch files and directories for changes, run commands automatically. Zero dependencies. nodemon alternative.
